@@ -5,7 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFD93D&size=25&center=true&vCenter=true&width=600&height=100&lines=QA+Manual+→+QA+Automation;UI+and+API+Test+Automation;"></a>
 </p>
 </div>
-<br>
 <div align="center">
   <img width="20%" alt="Github" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" />
 </div>
