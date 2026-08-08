@@ -2,7 +2,7 @@
 <img width="100" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" />
 <h1 align="center">Hi , I'm Jorge Caceres! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFD93D&size=25&center=true&vCenter=true&width=600&height=100&lines=QA+Manual+→+QA+Automation;UI+and+API+Test+Automation;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFD93D&size=25&center=true&vCenter=true&width=600&height=100&lines=QA+Automation;UI+and+API+Test+Automation;"></a>
 </p>
 </div>
 <div align="center">
@@ -12,7 +12,7 @@
 <h2> About Me</h2>
 
 
-- 🧠 Senior Manual QA transitioning into QA Automation Engineering, bringing years of hands-on experience ensuring software quality.
+- 🧠 Semi-Senior QA Automation Engineering, bringing more than 8 years of hands-on experience ensuring software quality.
   
 - 🧪 Currently focused on UI & API automation using Selenium and Postman.
   
